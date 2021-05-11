@@ -1,0 +1,56 @@
+{
+  "dbo:Person": "Персона",
+  "dbo:Writer": "Писатель",
+  "dbo:MilitaryPerson": "Военный",
+  "dbo:Athlete": "Атлет",
+  "dbo:SportsTeamMember": "Член спортивной команды",
+
+  "dbo:CelestialBody": "Небесное тело",
+
+  "dbo:Place": "Место",
+  "dbo:Settlement": "Поселок",
+  "dbo:Village": "Деревня",
+  "dbo:Building": "Строительство",
+  "dbo:Station": "Станция",
+
+  "dbo:Organisation": "Организация",
+
+  "dbo:Sport": "Спорт",
+  "dbo:SportsTeam": "Спортивная команда",
+  "dbo:SportsEvent": "Спортивное событие",
+
+  "dbo:Species": "Вид",
+  "dbo:Eukaryote": "Эукариоты",
+  "dbo:Animal": "Животное",
+  "dbo:Insect": "Насекомое",
+  "dbo:Plant": "Растение",
+  "dbo:Mollusca": "Моллюск",
+
+  "dbo:MusicalWork": "Музыкальная работа",
+  "dbo:Album": "Альбом",
+  "dbo:Artist": "Художник",
+  "dbo:Work": "Работа",
+  "dbo:Film": "Фильм",
+  "dbo:WrittenWork": "Письменная работа",
+  "dbo:Book": "Книга",
+  "dbo:Band": "Группа",
+
+  "dbo:TimePeriod": "Временной период",
+  "dbo:Event": "Событие",
+
+  "dbo:SocietalEvent": "Общественное событие",
+  "dbo:MusicalArtist": "Музыкальный артист",
+  "dbo:Town": "Городок",
+  "dbo:BodyOfWater": "Водное пространство",
+  "dbo:Politician": "Политик",
+
+  "dbo:Software": "Программного обеспечения",
+  "dbo:Device": "Устройство (Device)",
+
+  "dbo:Stream": "Поток",
+  "dbo:River": "Река",
+
+  "dbo:MeanOfTransportation": "Транспортных средств",
+  "dbo:AutomobileEngine": "Автомобильный двигатель",
+  "dbo:Ship": "Корабль"
+}
