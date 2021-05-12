@@ -1,0 +1,20 @@
+[
+  {
+    "name": "mathNetId",
+    "predicate": "P4252",
+    "description": "код персоны на Math-Net.Ru (P4252)",
+    "formatterURL": "http://www.mathnet.ru/rus/person$1"
+  },
+  {
+    "name": "zbMATHAuthorID",
+    "predicate": "P1556",
+    "description": "код автора в базе данных zbMATH",
+    "formatterURL": "https://zbmath.org/authors/?q=ai:$1"
+  },
+  {
+    "name": "OpenLibraryID",
+    "predicate": "P648",
+    "description": "код в Open Library",
+    "formatterURL": "https://openlibrary.org/works/$1"
+  }
+]
